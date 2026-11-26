@@ -92,4 +92,3 @@ A collection of **53 Claude Skills** for Chinese Metaphysics (命理国学) — 
 - **商务合作**：13148728713
 - **微信号**：guanfujs
 - 技能定制、批量部署、课程合作，欢迎联系。
-- 想定制高级能商用的 Skill，请联系商务合作：13148728713；微信号：guanfujs
